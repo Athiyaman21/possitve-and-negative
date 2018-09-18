@@ -5,7 +5,7 @@ class JavaApplication10
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-        //char ch;
+       
         Scanner s= new Scanner(System.in);
                 System.out.println("entre the character");
                 char c =s.next().charAt(0); 
